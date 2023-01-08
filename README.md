@@ -42,7 +42,7 @@ To run the master:
 
 To install the module, you need to go inside the `src` folder of your ROS workspace and clone the assignment folder:
 
-    git clone https://github.com/Miryru/RT_assignment_2.git
+    git clone https://github.com/Miryru/RT_assignment_2
 
 and from the root directory of your ROS workspace run the command:
 
